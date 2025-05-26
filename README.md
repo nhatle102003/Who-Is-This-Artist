@@ -15,7 +15,7 @@ This project is a Google extension design to get music recomendations and inform
 Follow these instructions to use the extension:
 
 **IMPORTANT**
-You should get access to the Spotify API client ID and client secret and Open Router API key to use this extension. A simple Google search should suffice on how to obtain them. 
+You should get access to the Spotify API client ID and client secret and Open Router API key to use this extension. A simple Google search should be suffice on how to obtain them. 
 
 1. **Clone the Repository**:  
    ```bash
