@@ -1,0 +1,16 @@
+<!doctype html>
+<html> 
+    <head> 
+        <link rel = "stylesheet" type ="text/css" href="index.css"/>  
+        <script src="/libs/marked/marked.min.js"></script>
+        <script src="/libs/dist/purify.min.js"></script>
+    </head>  
+    <body> 
+        <button id="button-prompt" class="primary" disabled>What Am I Listening To?</button>
+        <button id="button-reset" class="secondary" disabled>Reset</button>
+        <div id="response" class="text" hidden></div>
+        <div id="loading" class="text" hidden><span class="blink">...</span></div>
+        <div id="error" class="text" hidden></div>
+        <script type = "module" src="index.js"></script>
+    </body>
+</html>
