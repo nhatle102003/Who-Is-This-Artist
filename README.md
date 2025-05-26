@@ -7,7 +7,7 @@ This project is a Google extension design to get music recomendations and inform
 
 ## Preview
 ### Extension Preview
-![Extension Preview](preview)
+![Extension Preview](preview/preview.JPG)
 
 ---
 
