@@ -31,3 +31,5 @@ You should get access to the Spotify API client ID and client secret and Open Ro
    ```
 ---
 
+## Addtional Information 
+Before each run, one might need to refresh the page before the extension run to allow the page JavaScript to fully executed. Also, you will need to go to https://cors-anywhere.herokuapp.com/corsdemo to enable the CORS sever to handle API requests needed to run the application. You are welcome to play around with the source code here and make issues to the repo. 
